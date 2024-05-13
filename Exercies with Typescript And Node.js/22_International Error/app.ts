@@ -1,0 +1,14 @@
+// 22_Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. 
+// Change an index in one of your programs to produce an index error. Make sure you correct the error before closing the program.
+
+
+
+
+
+//INTENTIONAL ERROR
+
+const days :string []=["sunday", "monday","tuesday","wednesday","thursday","friday","saturday"];
+
+console.log(days);
+console.log(days[3]);
+console.log(days[7]);
